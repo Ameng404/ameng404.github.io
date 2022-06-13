@@ -1,4 +1,4 @@
-name: FE Project CI
+ name: FE Project CI
 
 on:
   workflow_dispatch:
